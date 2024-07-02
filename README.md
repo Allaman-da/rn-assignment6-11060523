@@ -21,3 +21,5 @@ The navigation system is established using @react-navigation/native, @react-navi
 
 Data Storage with AsyncStorage
 Cart data is efficiently stored using AsyncStorage. Upon app initialization, the cart data is fetched from AsyncStorage and displayed. Users have the ability to add or remove items from the cart, and any modifications are saved to AsyncStorage.
+![WhatsApp Image 2024-07-02 at 02 13 18](https://github.com/Allaman-da/rn-assignment6-11060523/assets/145779487/311c8e7c-a6cc-47e8-ab40-39015794929c)
+![WhatsApp Image 2024-07-02 at 02 13 19](https://github.com/Allaman-da/rn-assignment6-11060523/assets/145779487/b3bd1d53-206e-419e-a546-a3fbcf364437)
